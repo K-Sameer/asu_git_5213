@@ -1,5 +1,5 @@
 
-#Как Самір
+# Kak Sameer
 
 ```javascript
     
