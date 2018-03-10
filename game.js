@@ -6,7 +6,7 @@
 KEY_CODES = {
   32: 'space',
   37: 'left',
-  38: 'up',
+  87: 'up', //changed from 38(arrow 'up') to 87(w)
   39: 'right',
   40: 'down',
   70: 'f',
